@@ -1,0 +1,3 @@
+# advent2013_Unity
+2013年にひとりでやっていたUnityアドベントカレンダーの成果物です。
+自作アセット類はMIT LICENSEで、Standard AssetsはUnity EULAに従って公開します。
